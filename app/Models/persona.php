@@ -15,5 +15,5 @@ class persona extends Model
         'apellido',
         'deireccion',
         'telefono'
-    ]
+    ];
 }
